@@ -72,7 +72,7 @@ python3 review_tool.py input/report_sample.md
 | ファイル | 仕込んだ問題 |
 |---|---|
 | `report_sample.md` | 存在しない日付、文章内の方針の矛盾、表記ゆれ |
-| `nyuko_irai.docx` | 存在しない日付、本文と表内の数値の食い違い |
+| `入稿依頼書.docx` | 誤字、存在しない日付、本文と表内の数値の食い違い |
 | `keihi_seisan.xlsx` | 実行環境によって検出内容が変わる自由記述形式（実際には合計未記入等を指摘） |
 
 `output/review_report_sample_result.xlsx` は、上記サンプルを実際に実行して得られたレビュー結果の実物です（加工なし）。
